@@ -1,0 +1,9 @@
+# Environments
+.env
+venv/
+
+# Compiled files
+__pycache__/
+*.pyc
+build/
+node_modules/
